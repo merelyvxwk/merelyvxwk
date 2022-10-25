@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @merelyvxwk
+- 👀 I’m interested in discord.js and bukkit/spigot.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on Rede Feather.
